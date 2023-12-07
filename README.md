@@ -1,1 +1,1 @@
-# terraform to control to jenlins pipeline and ansible playbook
+# terraform to control to jenkins pipeline and ansible playbook
